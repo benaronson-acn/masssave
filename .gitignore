@@ -1,5 +1,7 @@
 .venv/
+venv/
 OpenDataMA.code-workspace
 
 # this file turns out to be huge and can be generated locally, dont commit it
 data/masssave_participation_map.html
+visualizations/

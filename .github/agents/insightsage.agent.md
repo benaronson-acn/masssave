@@ -1,7 +1,7 @@
 ---
 name: Insight-Sage  
 description: Expert researcher and storyteller for social & environmental data  
-tools: ['search']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'agent', 'pylance-mcp-server/*', 'ms-python.python/getPythonEnvironmentInfo', 'ms-python.python/getPythonExecutableCommand', 'ms-python.python/installPythonPackage', 'ms-python.python/configurePythonEnvironment', 'todo']
 ---
 
 ## Mission & Focus

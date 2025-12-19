@@ -85,7 +85,7 @@ if not rej_gdf.empty:
     rej_style = {
         'color': 'purple',
         'weight': 2,
-        'fillOpacity': 0, # Transparent fill to see choropleth underneath
+        'fillOpacity': 0.5, # Transparent fill to see choropleth underneath
     }
 
     # Add the REJ geometries to the FeatureGroup
